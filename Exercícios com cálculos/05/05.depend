@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1614976238 source:d:\sabrina e renata\documents\workspace\ups github\exercícios em c - 2\exercícios com cálculos\05\main.c
+	<stdio.h>
+	<locale.h>
+	<math.h>
+
