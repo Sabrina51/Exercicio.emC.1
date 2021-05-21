@@ -1,6 +1,6 @@
 # Programas em linguagem C
 
-## Exercícios que fiz para treinar operações matemáticas e ordem de procedência.
+## Exercícios que fiz para treinar operações matemáticas e ordem de precedência.
 
 Exercícios aplicados por um professor
 
